@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Virtualenvs
+venv/
+.venv/
+env/
+
+# Env files
+.env
+
+# Project-specific (never committed)
+browser_profiles/
+screenshots/
